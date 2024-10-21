@@ -1,4 +1,2 @@
-print ("Hello")
+print("Bonjour, monde!")
 
-def addition(a, b):
-    return a + b
